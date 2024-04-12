@@ -1,5 +1,5 @@
 deployment:
-  name: useraccount
+  name: nodejs-useraccount
   replicaCount: 1
 
 image:
