@@ -8,5 +8,5 @@ image:
   
 service:
   containerPort: 3080
-  nodePort: 31502
+  nodePort: 31503
 
